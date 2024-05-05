@@ -1,0 +1,19 @@
+tensorflow
+pandas
+dvc
+notebook
+numpy==1.23.0  # as required by numba
+protobuf<=3.20.3  # as required by mysql-connector-python
+#pywinpty<2  # as required by jupyter-server
+matplotlib
+seaborn
+python-box==6.0.2
+pyYAML
+tqdm
+ensure==1.0.2
+joblib
+types-pyYAML
+scipy
+Flask
+Flask-Cors
+-e .

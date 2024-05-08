@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "e:/MLproject2/Chicken-disease-classification/cnnenv\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": false
+ }
+}

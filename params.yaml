@@ -1,0 +1,6 @@
+# Example structure of params.yaml
+param1: value1
+param2: value2
+nested_param:
+  nested_key1: nested_value1
+  nested_key2: nested_value2

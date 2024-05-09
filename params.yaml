@@ -1,6 +1,11 @@
-# Example structure of params.yaml
-param1: value1
-param2: value2
-nested_param:
-  nested_key1: nested_value1
-  nested_key2: nested_value2
+AUGMENTATION: True
+IMAGE_SIZE:
+  - 224
+  - 224
+  - 3
+BATCH_SIZE: 16
+INCLUDE_TOP: False
+EPOCHS: 1
+CLASSES: 2
+WEIGHTS: imagenet
+LEARNING_RATE: 0.01
